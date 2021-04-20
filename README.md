@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Taiwan wanna to be a fullstack</h3>
 
 <h3 align="left">Languages and Tools:</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Docker1018)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
   <a href="https://developer.android.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
